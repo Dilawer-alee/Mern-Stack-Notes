@@ -1,0 +1,26 @@
+type module krna hga package.json m in 
+localhost hameesha http py hta hay https m deploy wagera hta hay
+firebase k tamam func async hai
+await hameeesha ek var m hga
+
+..cncept
+
+       Mangodb 
+mangoode.cloud.com
+mongoose schema
+mangodb libaray npm i mangoose
+mangoose k ander jo url dety h osko connection string kehty ahy
+mangodb m kiya jayega or kiya types hngy mtlb osky structure ko schema(models) kehty hay
+model ki file bnaty hwe phla lafz capital likhna h
+
+step1: connect mangodb with nodejs
+step2: create schema
+step3:db se baat cheet krwaana
+baat cheet m sbsy phala kam data get krna
+product add krny k liye 
+
+
+
+
+     
+

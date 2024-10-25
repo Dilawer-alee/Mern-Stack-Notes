@@ -1,0 +1,11 @@
+in git: vcs means version control system
+git add track krta hay files ko
+git branch -M main -M Means rename  ?
+ git py by default master branch bani hti hay esliye ye hum git branch -M main ye likhty taky id same hoajye 
+imp ques about github:git branch -M main  ye isliye likhty hay 
+git status ye bta tha hay kiya code m jo bhi modified ho 
+code m changes krny k bd phli command git add .
+then direct push krygy
+
+
+concept of Hashing jo hay wo text to bht bara krky string m convert krta hay short form m long string m

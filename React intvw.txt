@@ -1,0 +1,47 @@
+   React Inerview Question
+
+
+React components kya hote hain?
+
+Answer: Components React application ke building blocks hain. Yeh JavaScript functions ya 
+classes hote hain jo input (props) receive karte hain aur React elements ko return
+Functional aur class components mein kya farq hai?
+
+Answer:
+Functional components: Yeh simple JavaScript functions hote hain jo props ko receive karke JSX return karte hain.
+ Functional components mein hum hooks ka istemal karke state aur side effects manage karte hain. karte hain jo define karte hain ke UI pe kya render hoga.
+
+
+
+
+JSX aapko JavaScript mein HTML jaisa code likhne ki ijazat deta hai, jo React applications ko likhna 
+aur samajhna asaan banata hai. Ye code ko readable aur maintainable rakhta hai.
+
+
+Answer: Virtual DOM ek memory mein rakha gaya representation hota hai real DOM ka. Jab React mein koi changes
+aate hain, to virtual DOM real DOM se compare hota hai aur sirf wo parts update 
+karta hai jo change hue hote hain. Isse performance improve hoti hai.
+
+
+Lifecycle methods kya hain?
+
+Answer: Lifecycle methods class components mein hote hain jo component k
+e different stages pe chalaye jate hain, jaise component mount, update ya
+ unmount hota hai. Examples: componentDidMount(), componentDidUpdate(), componentWillUnmount().
+
+
+Redux kya hai aur React mein kyun use hota hai?
+
+Answer: Redux ek state management library hai jo React ke saath use hoti hai jab application mein bohot saari state ko manage karna 
+mushkil ho. Redux ek single store provide karta hai jahan sari state centralized hoti hai.
+
+React Router kya hota hai?
+
+Answer: React Router ek library hai jo React applications mein different pages ya views ke beech routing (navigation) ko handle karti hai bina page 
+reload kiye. Isse SPA (Single Page Applications) mein smooth navigation hoti hai.
+
+
+
+
+
+

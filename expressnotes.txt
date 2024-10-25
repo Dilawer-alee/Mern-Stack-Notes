@@ -1,0 +1,30 @@
+         Express.js
+
+
+
+  Nest js :-  It is a node js framework
+Mern stack: javascript k 
+Koi b technology k zaria front end and back end bana sakty hng  usko full stack dev kehty hn
+Node js is backend environment 
+Node js ka kam API banana ha 
+API: front or backend k bech ma communication krwata ha 
+Package.json sab sy main file ha
+Node js project:
+…1st step:  npm init	
+2nd: index.mjs bnaya
+3rd : console lag k check kia
+4th : express ko install kia 
+Fisrt file ka nam index.mjs hona chahia q ki  .js import export allow nhi krta 
+File start krny k lia node or file ka nam… node index.mjs
+Node ki command sy index.mjs chalata ha to code run kr k phr bnd ho jate ha
+Express Js: ye server on rakhta ha or API banany ka kam ata ha
+Npm i express[09:24, 14/09/2024] Dilawer 🎓: Hot reloading: jo changes ho wo foran sy terminal pa show ho 
+nodemon : Hot reloading:  changes real time pa show krny k lia
+npm i –g nodemon ….. 
+package.json k ander script ma 
+
+‘dev’: ‘npx nodemon index.mjs’  krna ha ya ‘npx supervisor index.mjs’
+API front end or database k bech  communication krwataa ha 
+app.use(‘/’)..    use ka matlab kse b qism ki request a skte ha (Get, Post, Put, Delete) 
+url k ander kbi b api ko access krain gay to by default get request hoge
+[09:49, 14/09/2024] Dilawer 🎓: Expreess routes banay k km ata h or mangos database k kam ata ha
